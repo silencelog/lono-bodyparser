@@ -1,7 +1,7 @@
 {
-  "name": "@lode/bodyparser",
+  "name": "@lono/bodyparser",
   "version": "0.0.1",
-  "description": "@lode/bodyparser",
+  "description": "@lono/bodyparser",
   "scripts": {
     "build": "babel lib -d dist",
     "start": "npm run build && node dist/index.js",
@@ -27,9 +27,9 @@
   ],
   "repository": {},
   "keywords": [
-    "lode",
-    "lode-bodyparser",
-    "@lode/bodyparser"
+    "lono",
+    "lono-bodyparser",
+    "@lono/bodyparser"
   ],
   "engines": {
     "node": ">=8.0.0"
