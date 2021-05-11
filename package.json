@@ -1,6 +1,6 @@
 {
   "name": "@lono/bodyparser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "@lono/bodyparser",
   "scripts": {
     "build": "babel lib -d dist",
